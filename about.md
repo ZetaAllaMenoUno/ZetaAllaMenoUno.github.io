@@ -4,6 +4,19 @@ title: About
 permalink: /about/
 ---
 
+
+ZETA è un gruppo di Musicisti Romani.    
+Pietro Barale    
+Giulio Romano De Mattia    
+Francesco Ferraculi    
+Filippo Fossà    
+Edoardo Scioscia    
+Luca Spanedda    
+Davide Tedesco    
+
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).

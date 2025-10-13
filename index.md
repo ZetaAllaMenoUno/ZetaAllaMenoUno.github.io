@@ -1,5 +1,5 @@
 ---
 layout: home
-home_text: Delay as strength 
+home_text: A self-regulating delay, weaving sound into new forms.
 title: ZAMU
 ---
